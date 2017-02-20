@@ -30,4 +30,5 @@ public class Rectangulo {
     public void setAltura(int altura) {
         this.altura = altura;
     }
+    
 }
