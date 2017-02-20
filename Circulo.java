@@ -2,7 +2,7 @@
 package menuareas;
 
 
-public class circulo {
+public class Circulo {
     
     private int radio;
     
